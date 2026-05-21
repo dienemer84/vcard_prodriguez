@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Pablo
+N:;Rodriguez;;;
+ORG:Signo Plast
+TITLE:Presidente
+TEL;TYPE=CELL:+5491151203967
+EMAIL:diego@signoplast.com.ar
+URL:https://www.signoplast.com.ar
+ADR;TYPE=WORK:;;Dirección;Ciudad;Provincia;Código Postal;Argentina
+END:VCARD
