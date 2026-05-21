@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Pablo Rodriguez
-N:Rodriguez
-ORG:Signo Plast
+N:Rodriguez;Pablo;;;
+ORG:Signo Plast S.A.
 TITLE:Presidente
 TEL;TYPE=CELL:+5491153872016
 EMAIL:prodriguez@signoplast.com.ar
 URL:https://www.signoplast.com.ar
-ADR;TYPE=WORK:;;Dr. I. Arieta 4720;Tablada;Buenos Aires;1766;Argentina
+ADR;TYPE=WORK:;;Dr. I. Arieta 4720;La Tablada;Buenos Aires;1766;Argentina
 END:VCARD
